@@ -1,7 +1,7 @@
 # 🚀 AI / ML Portfolio — Atluri Bharath Kumar
 
 ## 👋 About
-Engineer with 2+ years of experience in automation, data science, and AI/ML, focused on building scalable and practical machine learning solutions. Hands-on experience across deep learning, time-series forecasting, generative AI (RAG), LLMOps, and intelligent automation systems.
+with around 3 years of experience in automation, data science, and AI/ML, focused on building scalable and practical machine learning solutions. Hands-on experience across deep learning, time-series forecasting, generative AI (RAG), LLMOps, and intelligent automation systems.
 
 📍 Bengaluru, India  
 💼 Senior Engineer — Tata Elxsi  
