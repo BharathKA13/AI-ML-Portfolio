@@ -11,10 +11,10 @@ with around 3 years of experience in automation, data science, and AI/ML, focuse
 
 ## 🧠 Core Skills
 
-**Programming:** Python, SQL, Bash  
+**Programming:** Python, SQL  
 **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, XGBoost  
 **Deep Learning:** CNN, LSTM, Sequence-to-Sequence  
-**Generative AI & LLMOps:** RAG, LangChain, MCP, Agentic Workflows  
+**Generative AI & LLMOps:** RAG, LangChain, LangGraph, MCP, Agentic Workflows  
 **Data & Analytics:** Pandas, NumPy, Dask, Time-Series  
 **Backend & Cloud:** FastAPI, Docker, AWS, GitHub Actions  
 
@@ -71,7 +71,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0263823124003240
 ---
 
 ## 🎓 Education
-- **M.Tech** — Indian Institute of Technology Indore  
+- **M.Tech** — IIT Indore  
 - **B.Tech (Mechanical Engineering)** — Acharya Nagarjuna University  
 
 ---
