@@ -1,65 +1,87 @@
-🚀 AI / ML Portfolio — Atluri Bharath Kumar
-👋 About
+# 🚀 AI / ML Portfolio — Atluri Bharath Kumar
 
-Engineer with 2+ years of experience in automation, data science, and AI/ML, focused on building scalable, real-world machine learning solutions. Hands-on across deep learning, time-series forecasting, generative AI (RAG), and intelligent automation.
+## 👋 About
+Engineer with 2+ years of experience in automation, data science, and AI/ML, focused on building scalable and practical machine learning solutions. Hands-on experience across deep learning, time-series forecasting, generative AI (RAG), LLMOps, and intelligent automation systems.
 
-📍 Bengaluru, India
-💼 Senior Engineer — Tata Elxsi
-🔗 LinkedIn
+📍 Bengaluru, India  
+💼 Senior Engineer — Tata Elxsi  
+🔗 LinkedIn: https://www.linkedin.com/in/atluri-bharath-kumar-ba057a157/
 
-🧠 Core Skills
+---
 
-Languages: Python, SQL, Bash
-ML/DL: Scikit-learn, TensorFlow, PyTorch, XGBoost, CNN, LSTM
-GenAI: RAG, LangChain, FAISS, Chroma, Hugging Face
-Data: Pandas, NumPy, Dask, Time-Series
-Backend/Cloud: FastAPI, Docker, AWS, GitHub Actions
+## 🧠 Core Skills
 
-📂 Key Projects
-🔹 ML for Experimental Data Modeling
+**Programming:** Python, SQL, Bash  
+**Machine Learning:** Scikit-learn, TensorFlow, PyTorch, XGBoost  
+**Deep Learning:** CNN, LSTM, Sequence-to-Sequence  
+**Generative AI & LLMOps:** RAG, LangChain, MCP, Agentic Workflows  
+**Data & Analytics:** Pandas, NumPy, Dask, Time-Series  
+**Backend & Cloud:** FastAPI, Docker, AWS, GitHub Actions  
 
-Built regression and ANN models on small structured datasets using feature engineering, ensembling, and model validation.
+---
 
-🔹 Self-Driving Car — Steering Prediction
+## 📂 Key Projects
 
-Developed CNN and CNN–RNN models for steering angle prediction using dash-cam images and telemetry data.
+### 🔹 ML for Experimental Data Modeling
+Built regression and ANN models on small structured datasets using feature engineering, ensemble learning, and robust validation to model complex input–output relationships.
 
-🔹 NYC Taxi Demand Forecasting
+---
 
-Created ML pipelines for city-scale demand forecasting using spatio-temporal time-series data.
+### 🔹 Self-Driving Car — Steering Angle Prediction
+Developed end-to-end deep learning pipelines for steering angle prediction using dash-cam image data and steering telemetry, progressing from baseline models to CNN and CNN–RNN architectures.
 
-🔹 Battery SoH & Forecasting
+---
 
-Predicted battery health using ensemble ML models and forecasted discharge curves using LSTM networks.
-🔗 https://github.com/natskiu/Nasa-Battery
+### 🔹 NYC Taxi Demand Forecasting
+Created ML pipelines for short-term demand forecasting using large-scale spatio-temporal time-series data, including feature engineering and comparative model evaluation.
 
-🔹 RAG-Based Document Intelligence
+---
 
-Built a document ingestion, semantic search, and chat system using RAG for large technical document sets.
+### 🔹 Battery State-of-Health (SoH) & Forecasting
+Predicted battery health using ensemble ML models and forecasted future discharge curves using LSTM-based sequence models.  
+Reference: https://github.com/natskiu/Nasa-Battery
 
-🔹 E-Commerce Product Assistant
+---
 
-Developed a real-time AI assistant combining static catalogs with live web data using agent-based RAG pipelines.
+### 🔹 LLMOps — Fine-Tuning & Agentic RAG Systems
+Implemented an end-to-end LLMOps pipeline covering data ingestion, retrieval, generation, and deployment. Built agentic RAG workflows using advanced retrievers (MMR, contextual compression), reranking, query rewriting, and tool-calling via MCP. Designed asynchronous agent flows with validation, memory, fallback to web search, and production-ready deployment with APIs and CI/CD.
 
-🔹 Multi-Agent Research Automation
+---
 
-Designed multi-agent workflows for automated search, analysis, and report generation.
+### 🔹 RAG-Based Document Intelligence System
+Built a document ingestion, semantic search, and chat system using RAG to enable intelligent querying across large technical document collections.
 
-📄 Publication
+---
 
-Journal of Materials Processing Technology (2024)
-🔗 https://www.sciencedirect.com/science/article/abs/pii/S0263823124003240
+### 🔹 E-Commerce Product Assistant (Real-Time)
+Developed a real-time AI assistant combining static product data with live web data using agent-based RAG pipelines and backend services.
 
-🎓 Education
+---
 
-M.Tech — IIT Indore
+### 🔹 Multi-Agent Research Automation
+Designed multi-agent workflows for automated research tasks including search, analysis, and report generation with coordinated agent orchestration.
 
-B.Tech (Mechanical) — Acharya Nagarjuna University
+---
 
-🏆 Highlights
+## 📄 Publication
+**Journal of Materials Processing Technology (2024)**  
+Investigation on dual wire TIG Arc additive manufacturing of IN625 and SS316L FGM  
+https://www.sciencedirect.com/science/article/abs/pii/S0263823124003240
 
-Top 5 research project — IIT Indore
+---
 
-GATE 2021 qualified
+## 🎓 Education
+- **M.Tech** — Indian Institute of Technology Indore  
+- **B.Tech (Mechanical Engineering)** — Acharya Nagarjuna University  
 
-10+ AI/automation projects delivered
+---
+
+## 🏆 Highlights
+- Project selected among **Top 5 research projects** at IIT Indore  
+- **GATE 2021** qualified  
+- Delivered **10+ AI/automation projects** with measurable impact  
+
+---
+
+## 📫 Contact
+Feel free to connect with me on LinkedIn for collaboration, research discussions, or AI/ML opportunities.
